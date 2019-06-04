@@ -182,5 +182,6 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [GunIO](https://www.gun.io/#hacker) | Freelance developers. | 400,000 |💻|
 | ❇️ | [Speedlancer](https://speedlancer.com/) | Designers & Developers. | 600,000 |🌟|
 | ❇️ | [Moonlight](https://www.moonlightwork.com/) | Designers & Developers. | 800,000 |🌟|
+| ❇️ | [jobdone.net](https://www.jobdone.net/) | Freelance jobs in all sectors. | 961,426 |🌟|
 | ❇️ | [Soshace](https://soshace.com) | React/Angular/Vue/Python/Java developers. | 2,000,000 |💻|
 
